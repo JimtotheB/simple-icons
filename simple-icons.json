@@ -11,6 +11,12 @@
 			"class": "twitter",
 			"hex": "55ACEE",
 			"guidelines": "https://about.twitter.com/press/brand-assets"
+		},
+		{
+			"name": "YouTube",
+			"class": "youtube",
+			"hex": "CD201F",
+			"guidelines": "http://www.youtube.com/yt/brand"
 		}
 	]
 }
