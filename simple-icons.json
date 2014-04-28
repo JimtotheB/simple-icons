@@ -13,6 +13,12 @@
 			"guidelines": "https://www.facebookbrand.com"
 		},
 		{
+			"name": "GitHub",
+			"class": "github",
+			"hex": "221E1B",
+			"guidelines": "https://github.com/logos"
+		},
+		{
 			"name": "Google+",
 			"class": "googleplus",
 			"hex": "DD4B39",
