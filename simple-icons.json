@@ -1,6 +1,12 @@
 {
 	"icons": [
 		{
+			"name": "Facebook",
+			"class": "facebook",
+			"hex": "3B5998",
+			"guidelines": "https://www.facebookbrand.com"
+		},
+		{
 			"name": "Twitter",
 			"class": "twitter",
 			"hex": "55ACEE",
