@@ -14,10 +14,10 @@ The invention and development of digital technologies, Internet and Free Softwar
 
 The main rationale for this Free Art License is to promote and protect these creations of the human mind according to the principles of copyleft: freedom to use, copy, distribute, transform, and prohibition of exclusive appropriation.
 
-Definitions
+## Definitions
 
-- “work” either means the initial work, the subsequent works or the common work as defined hereafter:
-- “common work” means a work composed of the initial work and all subsequent contributions to it (originals and copies). The initial author is the one who, by choosing this license, defines the conditions under which contributions are made.
+- “Work” either means the initial work, the subsequent works or the common work as defined hereafter:
+- “Common work” means a work composed of the initial work and all subsequent contributions to it (originals and copies). The initial author is the one who, by choosing this license, defines the conditions under which contributions are made.
 - “Initial work” means the work created by the initiator of the common work (as defined above), the copies of which can be modified by whoever wants to
 - “Subsequent works” means the contributions made by authors who participate in the evolution of the common work by exercising the rights to reproduce, distribute, and modify that are granted by the license.
 - “Originals” (sources or resources of the work) means all copies of either the initial work or any subsequent work mentioning a date and used by their author(s) as references for any subsequent updates, interpretations, copies or reproductions.
