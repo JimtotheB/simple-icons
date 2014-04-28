@@ -1,6 +1,12 @@
 {
 	"icons": [
 		{
+			"name": "Dropbox",
+			"class": "dropbox",
+			"hex": "007EE5",
+			"guidelines": "https://www.dropbox.com/branding"
+		},
+		{
 			"name": "Facebook",
 			"class": "facebook",
 			"hex": "3B5998",
